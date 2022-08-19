@@ -3,7 +3,7 @@ from discord.ext import commands
 import regex
 # from data import *
 
-token = "MTAwOTM5OTMyMDIyODkyNTQ4Mg.GCzSWQ.WA2Cftuua3TK8LqJedofNp3dmBqX14hp5cKKLo"
+token = ""
 intents = discord.Intents.default()
 intents.members = True
 
